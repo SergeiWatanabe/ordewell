@@ -1,0 +1,10 @@
+{
+  "name": "ordewell",
+  "version": "0.1.0",
+  "description": "Multi-agent task orchestration for coding agents. Turn one goal into an ordered plan of tasks (each with its own runner, model and mode), then execute and verify the results.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
